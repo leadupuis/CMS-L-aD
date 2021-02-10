@@ -1,35 +1,43 @@
 ---
-title: En test, mon Site CMS
+title: Mon premier site
 subtitle: Expert Marketing Digital
-image: /img/home-jumbotron.jpg
+image: img/digital.png
 blurb:
-  heading: Why Kaldi?
-  text: Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  heading: "Pourquoi un site CMS ? "
+  text: Le principal avantage qu'offre un CMS est sa simplicité à gérer le contenu
+    du site – c'est beaucoup plus facile d'utilisation que du code HTML et CSS !
+    Notez ici que la simplicité d'un CMS se trouve dans sa gestion (entrer du
+    contenu), une fois celui-ci programmé et en ligne!
 intro:
-  heading: What we offer
-  text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+  heading: Faire un site internet
+  text: "Un site internet est une plateforme en ligne qui est réservé à une ou
+    plusieurs activités pour une marque ou une personne. Il s'agit d'un groupe
+    de pages accessibles depuis un navigateur internet, par exemple Google, qui
+    sont organisées pour présenter un sujet. La plupart des marques ont un site
+    internet et pour cause, à l'ère du numérique ces derniers sont
+    indispensables pour communiquer et vendre. "
 products:
-  - image: img/illustrations-coffee.svg
-    text: We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
-  - image: /img/illustrations-coffee-gear.svg
-    text: We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
+  - image: img/agence-communication.png
+    text: La fonction de « Chargé.e de com » est extrêmement riche ! Elle est faite
+      de rencontres et d’échanges. C’est un métier vivant, qui demande de la
+      souplesse et ne laisse pas de place à la routine et à l’ennui. Il est
+      parfois perçu, à tort, comme facile. Bien au contraire, il fait appel à de
+      véritables expertises dans un grand nombre de domaines (les employeurs
+      étant de plus en plus exigeants) et des qualités humaines essentielles.
+  - image: img/événementiel.png
+    text: >-
+      Le chargé de communication événementielle conçoit des opérations de
+      communication à forte visibilité : congrès, rencontres sportives, foires,
+      festivals, soirées festives, voyages, etc. A travers ces différentes
+      actions, il cherche à valoriser une entreprise ou une institution, à
+      mettre en avant une marque ou une cause.
+
+
+      Le chargé de communication événementielle prend en charge le projet de A à Z. Il trouve le concept le mieux adapté aux besoins du client.
 values:
-  heading: Our values
-  text: Coffee is an amazing part of human culture but it has a dark side too –
-    one of colonialism and mindless abuse of natural resources and human lives.
-    We want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+  heading: Les points forts
+  text: Au sein d'une équipe projet, une bonne communication permet d'apaiser les
+    éventuelles tensions, évite les conflits, améliore la collaboration et
+    favorise les échanges d'idées, la créativité et développe considérablement
+    la motivation
 ---
